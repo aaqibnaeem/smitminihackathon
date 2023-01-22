@@ -1,0 +1,9 @@
+.main-wrapper{
+  height: 100vh;
+}
+.card img{
+  width: 100% !important;
+}
+.form-wrapper {
+  width: 400px !important;
+}
